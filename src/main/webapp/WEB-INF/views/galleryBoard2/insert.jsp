@@ -16,7 +16,7 @@
 	
 		작성자 ${loginUser.memberId }<br><br><br>
 		<input type="hidden" value="${loginUser.memberId }" name="id">
-		
+		a
 		제목<br>
 		<input type="text" name="title"><br><br>
 		
